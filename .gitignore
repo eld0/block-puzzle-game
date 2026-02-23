@@ -1,0 +1,21 @@
+# Binaries
+bpg
+*.exe
+*.out
+*.app
+
+# Objects and Libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
